@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RuthPro2012
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Html
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me is to issue me on RuthPro2012/RuthPro2012
 
