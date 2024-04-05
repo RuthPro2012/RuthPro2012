@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RuthPro2012
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java
-- 💞️ I’m know Python, C++, html/css, java
+- 💞️ I’m know Python, C++, html/css
 - 📫 How to reach me is to issue me on RuthPro2012/RuthPro2012
 
 <!---
